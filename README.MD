@@ -1,3 +1,31 @@
+> **Note:**  
+> This repository is based on a copy of `microsoft/presidio` (11/2025).  
+> It only includes **presidio-anonymizer** and removes all other modules under Presidio.  
+> Many parts of Presidio have also been stripped out to reduce the size of this repository.
+
+---
+### Section 3 Answer
+> Put your answer to section 3 here:
+
+* Where does Factory choose the 'Initial' operator?
+*Put your answer here*
+
+* How many if/elif branches are used in selecting the operator?
+*Put your answer here*
+
+* What data structure exactly is used to select the operator?
+*Put your answer here*
+
+* The exact call stack leading to Initial.operate()
+*Put your answer here*
+
+* A written explanation describing the call stack.
+*Put your answer here*
+
+
+---
+
+
 # Presidio - Data Protection and De-identification SDK
 
 **Context aware, pluggable and customizable PII de-identification service for text and images.**
