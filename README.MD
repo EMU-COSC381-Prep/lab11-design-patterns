@@ -16,11 +16,14 @@
 * What data structure (a Python data type) exactly is used to select the operator?
 *Put your answer here*
 
-* The exact call stack leading to Initial.operate()
-*Put your answer here*
-
-* A written explanation describing the call stack.
-*Put your answer here*
+* A written explanation describing the call stack leading to Initial.operate()
+```
+From the <module> sample.py (line 35), 
+to the main method in sample.py (line 29), 
+to the run_anonymizer method in the sample.py (line 13)
+to anonymizer method in anonymizer_engine.py (line 104)
+[complete the call stack here]
+```
 
 
 ---
