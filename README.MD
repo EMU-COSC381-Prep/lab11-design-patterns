@@ -7,16 +7,7 @@
 ### Section 3 Answer
 > Put your answer to section 3 here:
 
-* Where does Factory choose the 'Initial' operator?
-*Specific file and line number. Put your answer here*
-
-* How many if/elif branches are used in selecting the operator?
-*Put your answer here*
-
-* What data structure (a Python data type) exactly is used to select the operator?
-*Put your answer here*
-
-* A written description of the call stack leading to line 86 in file presidio-anonymizer/presidio_anonymizer/core/engine_base.py
+* A written description of the call stack leading to line 133 in operators_factory.py
 ```
 From the <module> sample.py (line 35), 
 to the main method in sample.py (line 29), 
@@ -25,7 +16,14 @@ to the anonymize method in AnonymizerEngine Class (line 104)
 [complete the call stack here]
 ```
 
+* How many if/elif branches are used in selecting the operator?
+*Put your answer here*
+
+* What data structure (a Python data type) exactly is used to select the operator?
+*Put your answer here*
+
 * Explain how "Strategy" design pattern is reflected here.
+
 
 ---
 
