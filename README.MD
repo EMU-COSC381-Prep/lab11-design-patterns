@@ -13,7 +13,7 @@
 * How many if/elif branches are used in selecting the operator?
 *Put your answer here*
 
-* What data structure exactly is used to select the operator?
+* What data structure (a Python data type) exactly is used to select the operator?
 *Put your answer here*
 
 * The exact call stack leading to Initial.operate()
