@@ -8,7 +8,7 @@
 > Put your answer to section 3 here:
 
 * Where does Factory choose the 'Initial' operator?
-*Put your answer here*
+*Specific file and line number. Put your answer here*
 
 * How many if/elif branches are used in selecting the operator?
 *Put your answer here*
