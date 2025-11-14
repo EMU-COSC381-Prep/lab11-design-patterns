@@ -16,7 +16,7 @@
 * What data structure (a Python data type) exactly is used to select the operator?
 *Put your answer here*
 
-* A written description of the call stack leading to Initial.operate()
+* A written description of the call stack leading to line 86 in file presidio-anonymizer/presidio_anonymizer/core/engine_base.py
 ```
 From the <module> sample.py (line 35), 
 to the main method in sample.py (line 29), 
